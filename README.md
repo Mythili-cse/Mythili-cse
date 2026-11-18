@@ -32,7 +32,7 @@ Python • Java • C • C++ • JavaScript • TypeScript • SQL
 HTML5 • CSS3 • JavaScript • TypeScript • React.js • Vite • Tailwind CSS
 
 ### ⚙️ Backend Development
-Python • Django • Django REST Framework • Flask
+Python • Django • Flask
 
 ### 🗄️ Database
 MySQL
