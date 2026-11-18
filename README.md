@@ -177,7 +177,7 @@ A learning platform project associated with KIRA SOLUTIONS, focused on AI learni
 
 <div align="center">
 
-### ⭐ Learning Every Day | Building Through Practice | Growing Through Technology
+
 
 *Thanks for visiting my GitHub profile!*
 
