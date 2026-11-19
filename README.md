@@ -140,20 +140,7 @@ A learning platform project associated with KIRA SOLUTIONS, focused on AI learni
 
 ---
 
-## 📊 GitHub Statistics
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mythili-cse&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mythili-cse&layout=compact&theme=default&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mythili-cse&theme=default&hide_border=true" />
-</p>
-
-
----
 
 ## 🏆 Project Highlights
 
