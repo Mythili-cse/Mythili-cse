@@ -55,7 +55,7 @@ MySQL
 - Render
 
 ### 🎨 Design & Development Tools
-VS Code • Antigravity • Lovable • Figma • Canva
+ •VS Code • Antigravity • Lovable • Figma • Canva
 
 ---
 
