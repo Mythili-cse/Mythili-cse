@@ -49,7 +49,7 @@ MySQL
 - Docker
 - GitHub Actions
 - Ansible
-- Gradle
+
 - Git & GitHub
 - Vercel
 - Render
