@@ -48,8 +48,6 @@ MySQL
 ### ☁️ DevOps & Cloud Tools
 - Docker
 - GitHub Actions
-
-
 - Git & GitHub
 - Vercel
 - Render
