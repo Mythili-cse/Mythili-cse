@@ -48,7 +48,7 @@ MySQL
 ### ☁️ DevOps & Cloud Tools
 - Docker
 - GitHub Actions
-- Ansible
+
 
 - Git & GitHub
 - Vercel
