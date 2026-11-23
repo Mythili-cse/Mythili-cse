@@ -1,6 +1,6 @@
 # Hi, I'm Mythili L 
 
-### Aspiring Software Engineer | Full Stack Developer | Generative AI Enthusiast
+##Aspiring Software Engineer | Full Stack Developer | Generative AI Enthusiast
 
 I'm Mythili L, a third-year B.E. Computer Science and Engineering student at **Agni College of Technology, Chennai**. I'm passionate about Full Stack Development, Generative AI, and building practical technology solutions.
 
