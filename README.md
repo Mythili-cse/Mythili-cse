@@ -11,7 +11,7 @@ I enjoy developing web applications, integrating AI APIs, experimenting with mod
 ## 👩‍💻 About Me
 
 - 🎓 B.E. Computer Science and Engineering student at Agni College of Technology.
-- 📊 CGPA: **7.69 / 10
+- 📊 CGPA: **7.69 / 10**
 - 💻 Programming with Python, Java, C, C++, JavaScript, TypeScript, and SQL.
 - 🌐 Interested in Full Stack Web Development.
 - 🤖 Exploring Generative AI, Prompt Engineering, and AI API integration.
