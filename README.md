@@ -1,4 +1,4 @@
-# Hi, I'm MythUUUU
+# Hi, I'm MythU
 
 ### Aspiring Software Engineer | Full Stack Developer | Generative AI Enthusiast
 
