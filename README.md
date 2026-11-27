@@ -1,4 +1,4 @@
-# Hi, I'm Myth
+# Hi, I'm Mythi
 
 ### Aspiring Software Engineer | Full Stack Developer | Generative AI Enthusiast
 
