@@ -1,4 +1,4 @@
-# Hi, I'm Mythili Lakshmi
+# Hi, I'm Mythili Lak
 
 ### Aspiring Software Engineer | Full Stack Developer | Generative AI Enthusiast
 
